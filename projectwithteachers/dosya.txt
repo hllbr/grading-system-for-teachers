@@ -1,0 +1,81 @@
+Hatice Günday,70,90,20,Türkçe
+Mustafa Akyürek,90,80,60,Matematik
+Ramazan Topaloğlu,60,30,50,Geometri
+Elif Akşit,80,40,80,Fizik
+Mehmet Düşenkalkar,70,20,40,Kimya
+Hatice Dağdaş,90,90,80,Biyoloji
+Merve Tütüncü,40,30,30,Türkçe
+Hatice Pekkan,50,70,60,Matematik
+Merve Alyanak,70,60,30,Geometri
+Meryem Aşıkoğlu,20,80,70,Bilişim Teknolojileri
+Süleyman Uluhan,40,10,100,Bilgi Güvenliği
+Esra Ekici,10,10,30,Akışkanlar Mekaniği
+Emine Kumcuoğlu,90,30,80,Static
+Süleyman Kumcuoğlu,50,10,60,elektrik enerji üretimi
+Şerife Kumcuoğlu,40,70,70,fotavoltaik
+Sude Tekand,90,50,90,Mühendisliğe Giriş
+Elif Nebioğlu,10,10,60,Devre Analizi1
+Sude Berberoğlu,10,100,50,Devre Analizi2
+Yasemin Durmaz,40,70,10,MAGNETİK DALGALR
+Fadime Akyürek,50,20,100,MAGNETİK TEORİ
+Fatma Akşit,60,40,90,Bilgi Güvenliği
+Emre Sözeri,50,50,20,Programlama Giriş
+Yasemin Kurutluoğlu,40,50,40,IOT
+Fatma Akman,80,20,30,VERİ YAPILARI
+Hacer Korol,80,50,90,VERİ MADENCİLİĞİ
+Recep Altınbaş,40,70,80,AUTOCAD
+Murat Numanoğlu,70,100,100,AUTOCAD
+Fatih Fahri,40,10,10,VERİ MADENCİLİĞİ
+Halil Sarıoğlu,30,70,60,MAGNETİK TEORİ
+Merve Arıcan,30,30,70,VERİ MADENCİLİĞİ
+İsmail Kaplangı,60,50,10,Devre Analizi2
+Emir Egeli,80,20,80,Devre Analizi1
+Havva Erbulak,30,10,80,Akışkanlar Mekaniği
+Hacer Okumuş,70,100,70,VERİ MADENCİLİĞİ
+Salih Ağaoğlu,10,10,40,IOT
+Zeliha Ağaoğlu,100,80,30,VERİ MADENCİLİĞİ
+Abdullah Solmaz,60,40,50,VERİ MADENCİLİĞİ
+Fatih Elmastaşoğlu,20,20,60,VERİ MADENCİLİĞİ
+Hacer Karaer,90,90,60,IOT
+Sude Kumcuoğlu,60,20,30,IOT
+Abdullah Kuzucu,100,40,40,IOT
+Hanife Söyler,100,20,80,Bilişim Teknolojileri
+Sude Orbay,60,30,40,Bilişim Teknolojileri
+Sultan Uluç,90,90,30,Bilişim Teknolojileri
+Hanife Beşok,80,100,50,Bilişim Teknolojileri
+Hülya Karadaş,80,100,10,Bilgi Güvenliği
+Fatma Tuğluk,60,20,50,Bilgi Güvenliği
+Halil Güçlü,100,80,30,Bilgi Güvenliği
+Recep Eronat,60,100,20,Bilgi Güvenliği
+Büşra Koyuncu,60,70,70,Bilgi Güvenliği
+Hüseyin Kunt,50,80,10,Bilgi Güvenliği
+Halil Numanoğlu,70,60,40,Bilgi Güvenliği
+Hülya Gürmen,80,100,30,Bilgi Güvenliği
+Ömer Kulaksızoğlu,40,40,60,Bilişim Teknolojileri
+Zeliha Demirel,70,40,100,MAGNETİK DALGALR
+Mustafa Aşıkoğlu,60,70,90,MAGNETİK DALGALR
+Süleyman Orbay,90,80,60,MAGNETİK DALGALR
+İbrahim Erez,50,60,40,MAGNETİK DALGALR
+Süleyman Koçyiğit,100,10,60,MAGNETİK DALGALR
+Salih Orbay,60,10,30,Static
+Şerife Süleymanoğlu,80,30,100,Static
+Murat Adal,10,90,100,Static
+Osman Aybar,50,20,100,Static
+Sude Balcı,60,10,40,Static
+Zeynep Koyuncu,50,90,50,Bilişim Teknolojileri
+İbrahim Pekkan,20,10,60,elektrik enerji üretimi
+Fatih Erdoğan,30,60,30,Bilişim Teknolojileri
+Abdullah Ekşioğlu,40,60,10,elektrik enerji üretimi
+Osman Adan,30,90,50,elektrik enerji üretimi
+Ramazan Paksüt,90,20,20,elektrik enerji üretimi
+Halil Gökgöz,80,10,20,elektrik enerji üretimi
+Emre Kurutluoğlu,70,80,100,PLC
+Mahmut Akışık,40,80,20,Matematik
+Yusuf Hamzaoğlu,100,40,90,Akışkanlar Mekaniği
+Ali Akan,90,90,80,Matematik
+Zeliha Beşerler,100,80,20,Matematik
+Ali Oraloğlu,20,20,90,Matematik
+Hanife Poçan,100,50,10,Akışkanlar Mekaniği
+Ayşe Kurutluoğlu,50,10,80,Akışkanlar Mekaniği
+Fatih Akman,100,10,60,Akışkanlar Mekaniği
+Mehmet Babacan,70,60,60,elektrik enerji üretimi

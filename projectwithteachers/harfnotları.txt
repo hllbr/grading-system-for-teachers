@@ -1,0 +1,81 @@
+Hatice Günday adlı öğrenci Türkçe adlı dersten DF aldı
+Mustafa Akyürek adlı öğrenci Matematik adlı dersten CB aldı
+Ramazan Topaloğlu adlı öğrenci Geometri adlı dersten FF aldı
+Elif Akşit adlı öğrenci Fizik adlı dersten DC aldı
+Mehmet Düşenkalkar adlı öğrenci Kimya adlı dersten FF aldı
+Hatice Dağdaş adlı öğrenci Biyoloji adlı dersten BA aldı
+Merve Tütüncü adlı öğrenci Türkçe adlı dersten FF aldı
+Hatice Pekkan adlı öğrenci Matematik adlı dersten DD aldı
+Merve Alyanak adlı öğrenci Geometri adlı dersten FF aldı
+Meryem Aşıkoğlu adlı öğrenci Bilişim Teknolojileri adlı dersten DF aldı
+Süleyman Uluhan adlı öğrenci Bilgi Güvenliği adlı dersten DF aldı
+Esra Ekici adlı öğrenci Akışkanlar Mekaniği adlı dersten FF aldı
+Emine Kumcuoğlu adlı öğrenci Static adlı dersten DC aldı
+Süleyman Kumcuoğlu adlı öğrenci elektrik enerji üretimi adlı dersten FF aldı
+Şerife Kumcuoğlu adlı öğrenci fotavoltaik adlı dersten DD aldı
+Sude Tekand adlı öğrenci Mühendisliğe Giriş adlı dersten CB aldı
+Elif Nebioğlu adlı öğrenci Devre Analizi1 adlı dersten FF aldı
+Sude Berberoğlu adlı öğrenci Devre Analizi2 adlı dersten FF aldı
+Yasemin Durmaz adlı öğrenci MAGNETİK DALGALR adlı dersten FF aldı
+Fadime Akyürek adlı öğrenci MAGNETİK TEORİ adlı dersten DD aldı
+Fatma Akşit adlı öğrenci Bilgi Güvenliği adlı dersten DC aldı
+Emre Sözeri adlı öğrenci Programlama Giriş adlı dersten FF aldı
+Yasemin Kurutluoğlu adlı öğrenci IOT adlı dersten FF aldı
+Fatma Akman adlı öğrenci VERİ YAPILARI adlı dersten FF aldı
+Hacer Korol adlı öğrenci VERİ MADENCİLİĞİ adlı dersten CB aldı
+Recep Altınbaş adlı öğrenci AUTOCAD adlı dersten DC aldı
+Murat Numanoğlu adlı öğrenci AUTOCAD adlı dersten AA aldı
+Fatih Fahri adlı öğrenci VERİ MADENCİLİĞİ adlı dersten FF aldı
+Halil Sarıoğlu adlı öğrenci MAGNETİK TEORİ adlı dersten FF aldı
+Merve Arıcan adlı öğrenci VERİ MADENCİLİĞİ adlı dersten FF aldı
+İsmail Kaplangı adlı öğrenci Devre Analizi2 adlı dersten FF aldı
+Emir Egeli adlı öğrenci Devre Analizi1 adlı dersten DD aldı
+Havva Erbulak adlı öğrenci Akışkanlar Mekaniği adlı dersten FF aldı
+Hacer Okumuş adlı öğrenci VERİ MADENCİLİĞİ adlı dersten CB aldı
+Salih Ağaoğlu adlı öğrenci IOT adlı dersten FF aldı
+Zeliha Ağaoğlu adlı öğrenci VERİ MADENCİLİĞİ adlı dersten DC aldı
+Abdullah Solmaz adlı öğrenci VERİ MADENCİLİĞİ adlı dersten FF aldı
+Fatih Elmastaşoğlu adlı öğrenci VERİ MADENCİLİĞİ adlı dersten FF aldı
+Hacer Karaer adlı öğrenci IOT adlı dersten CB aldı
+Sude Kumcuoğlu adlı öğrenci IOT adlı dersten FF aldı
+Abdullah Kuzucu adlı öğrenci IOT adlı dersten DF aldı
+Hanife Söyler adlı öğrenci Bilişim Teknolojileri adlı dersten DC aldı
+Sude Orbay adlı öğrenci Bilişim Teknolojileri adlı dersten FF aldı
+Sultan Uluç adlı öğrenci Bilişim Teknolojileri adlı dersten DC aldı
+Hanife Beşok adlı öğrenci Bilişim Teknolojileri adlı dersten CC aldı
+Hülya Karadaş adlı öğrenci Bilgi Güvenliği adlı dersten DF aldı
+Fatma Tuğluk adlı öğrenci Bilgi Güvenliği adlı dersten FF aldı
+Halil Güçlü adlı öğrenci Bilgi Güvenliği adlı dersten DC aldı
+Recep Eronat adlı öğrenci Bilgi Güvenliği adlı dersten DF aldı
+Büşra Koyuncu adlı öğrenci Bilgi Güvenliği adlı dersten DC aldı
+Hüseyin Kunt adlı öğrenci Bilgi Güvenliği adlı dersten FF aldı
+Halil Numanoğlu adlı öğrenci Bilgi Güvenliği adlı dersten DF aldı
+Hülya Gürmen adlı öğrenci Bilgi Güvenliği adlı dersten DC aldı
+Ömer Kulaksızoğlu adlı öğrenci Bilişim Teknolojileri adlı dersten FF aldı
+Zeliha Demirel adlı öğrenci MAGNETİK DALGALR adlı dersten CC aldı
+Mustafa Aşıkoğlu adlı öğrenci MAGNETİK DALGALR adlı dersten CB aldı
+Süleyman Orbay adlı öğrenci MAGNETİK DALGALR adlı dersten CB aldı
+İbrahim Erez adlı öğrenci MAGNETİK DALGALR adlı dersten FF aldı
+Süleyman Koçyiğit adlı öğrenci MAGNETİK DALGALR adlı dersten DF aldı
+Salih Orbay adlı öğrenci Static adlı dersten FF aldı
+Şerife Süleymanoğlu adlı öğrenci Static adlı dersten CC aldı
+Murat Adal adlı öğrenci Static adlı dersten CC aldı
+Osman Aybar adlı öğrenci Static adlı dersten DD aldı
+Sude Balcı adlı öğrenci Static adlı dersten FF aldı
+Zeynep Koyuncu adlı öğrenci Bilişim Teknolojileri adlı dersten DD aldı
+İbrahim Pekkan adlı öğrenci elektrik enerji üretimi adlı dersten FF aldı
+Fatih Erdoğan adlı öğrenci Bilişim Teknolojileri adlı dersten FF aldı
+Abdullah Ekşioğlu adlı öğrenci elektrik enerji üretimi adlı dersten FF aldı
+Osman Adan adlı öğrenci elektrik enerji üretimi adlı dersten DF aldı
+Ramazan Paksüt adlı öğrenci elektrik enerji üretimi adlı dersten FF aldı
+Halil Gökgöz adlı öğrenci elektrik enerji üretimi adlı dersten FF aldı
+Emre Kurutluoğlu adlı öğrenci PLC adlı dersten BA aldı
+Mahmut Akışık adlı öğrenci Matematik adlı dersten FF aldı
+Yusuf Hamzaoğlu adlı öğrenci Akışkanlar Mekaniği adlı dersten CB aldı
+Ali Akan adlı öğrenci Matematik adlı dersten BA aldı
+Zeliha Beşerler adlı öğrenci Matematik adlı dersten DD aldı
+Ali Oraloğlu adlı öğrenci Matematik adlı dersten FF aldı
+Hanife Poçan adlı öğrenci Akışkanlar Mekaniği adlı dersten FF aldı
+Ayşe Kurutluoğlu adlı öğrenci Akışkanlar Mekaniği adlı dersten FF aldı
+Fatih Akman adlı öğrenci Akışkanlar Mekaniği adlı dersten DF aldı
+Mehmet Babacan adlı öğrenci elektrik enerji üretimi adlı dersten DD aldı
